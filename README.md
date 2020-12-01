@@ -4,16 +4,16 @@ We have a new client that needs to easily see the current weather conditions in 
 
 Please see the following points where we think we need to improve:
 
-- Files and folders structure
-- Component size
-- Testing
-- Error handling
-- Logic coupling
+- [x] Files and folders structure
+- [x] Component size
+- [x] Testing
+- [x] Error handling
+- [x] Logic coupling
 
 Here are some bonus points:
 
-- Don't use classes
-- Use react hooks / custom hooks
+- [x] Don't use classes
+- [x] Use react hooks / custom hooks
 - Use local storage to store the last search between sessions
 - Use react context
 - Use Error Boundaries
